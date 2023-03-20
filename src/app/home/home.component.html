@@ -2,8 +2,16 @@
     <div class="card-header"> Testing Form </div>
     <div class="card-body">
         <label>Username : </label>
-        <input type="text" placeholder="Enter username"/>
+        <input [(ngModel)]="name" type="text" placeholder="Enter username"/>
+        <br>
+        <label>Username : </label>
+        <input [(ngModel)]="emailid" type="text" placeholder="Enter username"/>
         <br>
         <button type="submit" class="btn btn-success"> Test </button>
     </div>
+</div>
+
+<div>
+    <p>Username : <b>{{name}}</b></p>
+    <p>Email Id : <b>{{emailid}}</b></p>
 </div>
