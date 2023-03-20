@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1679351181180,
+  "timestamp": 1679352618332,
   "index": "https://JibeshMishra.github.io/Auto-Reload/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://JibeshMishra.github.io/Auto-Reload/favicon.ico",
         "https://JibeshMishra.github.io/Auto-Reload/index.html",
-        "https://JibeshMishra.github.io/Auto-Reload/main.236460a36ff5fa48.js",
+        "https://JibeshMishra.github.io/Auto-Reload/main.aa98f746708a3d4a.js",
         "https://JibeshMishra.github.io/Auto-Reload/manifest.webmanifest",
         "https://JibeshMishra.github.io/Auto-Reload/polyfills.21b4409f7d9174e8.js",
         "https://JibeshMishra.github.io/Auto-Reload/runtime.91e07d7f14084539.js",
@@ -52,8 +52,8 @@
     "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://JibeshMishra.github.io/Auto-Reload/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://JibeshMishra.github.io/Auto-Reload/index.html": "a0e7c1fca8e390586d3f7804e96f52043ff86530",
-    "https://JibeshMishra.github.io/Auto-Reload/main.236460a36ff5fa48.js": "d01f292fd86c7b451ff1f2fcdb2dbda498ba4a76",
+    "https://JibeshMishra.github.io/Auto-Reload/index.html": "cc0c93ba14244bf204298c2a8795855576885f84",
+    "https://JibeshMishra.github.io/Auto-Reload/main.aa98f746708a3d4a.js": "d8015e27b113ef263d6fa96be5087d8c879fe613",
     "https://JibeshMishra.github.io/Auto-Reload/manifest.webmanifest": "454634cf43b7c8d5751a73782f258553bbda7189",
     "https://JibeshMishra.github.io/Auto-Reload/polyfills.21b4409f7d9174e8.js": "bcadd5132297c2f58735d582539178bbca27fc58",
     "https://JibeshMishra.github.io/Auto-Reload/runtime.91e07d7f14084539.js": "f51941039a5a50b5d11665351a949fd5829da7ac",
