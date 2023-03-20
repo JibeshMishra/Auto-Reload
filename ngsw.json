@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1679350059909,
-  "index": "/index.html",
+  "timestamp": 1679350985953,
+  "index": "https://JibeshMishra.github.io/Auto-Reload/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.882e9ce01d25e125.js",
-        "/manifest.webmanifest",
-        "/polyfills.21b4409f7d9174e8.js",
-        "/runtime.91e07d7f14084539.js",
-        "/styles.ef46db3751d8e999.css"
+        "https://JibeshMishra.github.io/Auto-Reload/favicon.ico",
+        "https://JibeshMishra.github.io/Auto-Reload/index.html",
+        "https://JibeshMishra.github.io/Auto-Reload/main.87664a5b07021ed4.js",
+        "https://JibeshMishra.github.io/Auto-Reload/manifest.webmanifest",
+        "https://JibeshMishra.github.io/Auto-Reload/polyfills.21b4409f7d9174e8.js",
+        "https://JibeshMishra.github.io/Auto-Reload/runtime.91e07d7f14084539.js",
+        "https://JibeshMishra.github.io/Auto-Reload/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-128x128.png",
+        "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-144x144.png",
+        "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-152x152.png",
+        "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-192x192.png",
+        "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-384x384.png",
+        "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-512x512.png",
+        "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-72x72.png",
+        "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "9738037c474ddfdaf07358b0355ca6b97e09b249",
-    "/main.882e9ce01d25e125.js": "6da628ac085b7954addcb77ebe5d13c2a6ebe207",
-    "/manifest.webmanifest": "454634cf43b7c8d5751a73782f258553bbda7189",
-    "/polyfills.21b4409f7d9174e8.js": "bcadd5132297c2f58735d582539178bbca27fc58",
-    "/runtime.91e07d7f14084539.js": "f51941039a5a50b5d11665351a949fd5829da7ac",
-    "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://JibeshMishra.github.io/Auto-Reload/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://JibeshMishra.github.io/Auto-Reload/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://JibeshMishra.github.io/Auto-Reload/index.html": "7e74e08954c1886ad068deb53b989a0e6441dd4e",
+    "https://JibeshMishra.github.io/Auto-Reload/main.87664a5b07021ed4.js": "5e4cce7735e0bd2a50937c76538711d124248fa8",
+    "https://JibeshMishra.github.io/Auto-Reload/manifest.webmanifest": "454634cf43b7c8d5751a73782f258553bbda7189",
+    "https://JibeshMishra.github.io/Auto-Reload/polyfills.21b4409f7d9174e8.js": "bcadd5132297c2f58735d582539178bbca27fc58",
+    "https://JibeshMishra.github.io/Auto-Reload/runtime.91e07d7f14084539.js": "f51941039a5a50b5d11665351a949fd5829da7ac",
+    "https://JibeshMishra.github.io/Auto-Reload/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
